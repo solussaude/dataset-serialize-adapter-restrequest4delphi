@@ -1,0 +1,7 @@
+{
+    "name": "dataset-serialize-adapter-restrequest4delphi",
+    "version": "1.0.2",
+    "repository": "https://github.com/solussaude/dataset-serialize-adapter-restrequest4delphi.git",
+    "packageManager": "yarn@4.2.1",
+    "private": true
+}
